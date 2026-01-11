@@ -1,4 +1,4 @@
-# `ВИДЕО-ИНСТРУКЦИЯ ПО ПОЛУЧЕНИЮ ТОКЕНА VK - https://rutube.ru/video/private/4e9f65b0b605d8a87e234a9842d90abc/?p=Zw3yUNpILnNjQXWtM5j8sg` 
+# `ВИДЕО-ИНСТРУКЦИЯ ПО ПОЛУЧЕНИЮ ТОКЕНА VK` - https://rutube.ru/video/private/4e9f65b0b605d8a87e234a9842d90abc/?p=Zw3yUNpILnNjQXWtM5j8sg 
 
 # VK Text Analysis Parser 🎯
 
